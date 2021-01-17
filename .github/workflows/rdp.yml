@@ -1,7 +1,5 @@
-name: CI
-
+name: C
 on: workflow_dispatch
-
 jobs:
   build:
 
